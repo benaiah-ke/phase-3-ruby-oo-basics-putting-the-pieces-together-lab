@@ -13,8 +13,3 @@ class Shoe
     end
 
 end
-
-book_one = Book.new("This book is a new book")
-book_one.author = "Benaiah"
-book_one.page_count = 200
-book_one.genre = "Motivational Books"
